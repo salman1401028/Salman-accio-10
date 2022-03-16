@@ -1,0 +1,36 @@
+.white-text{
+    color: white;
+}
+
+
+.back-color{
+    background-color: silver;
+}
+
+.form-border{
+    border-width:5px;
+    border-style:dotted;   
+    
+}
+
+.gradient-input{
+    background: linear-gradient(to right, black, red)
+}
+
+.smaller-image{
+    width : 100%;
+    border-radius: 10px;
+}
+
+#footer{
+    background: black;
+    width: 100%;
+    height: 10%;
+    text-align: center;
+}
+div.border{
+    border-color:yellow;
+    border-style:dotted;
+}
+    
+    
